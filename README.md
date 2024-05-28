@@ -9,6 +9,10 @@ MazeConverter is a simple web page project using the p5.js library that allows u
     - Open the project in VSCode.
     - Install the Live Server extension if you haven't already.
     - Right-click `index.html` and select "Open with Live Server".
+  
+## Or use it online
+
+Visit this link: [https://fededige.github.io/PrologMazeDrawer/](https://fededige.github.io/PrologMazeDrawer/)
 
 ## Usage
 
